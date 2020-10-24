@@ -1,0 +1,18 @@
+body{
+    background-color: lavender;
+}
+.section-center{
+    position: fixed;
+    top: 10%;
+    left: 35%;
+    font-family: 'Montserrat', sans-serif;
+}
+.btn{
+    background: red;
+    padding: 5px ;
+    border-radius: 30%;
+}
+.result{
+    position: relative;
+    right: 20%;
+}
